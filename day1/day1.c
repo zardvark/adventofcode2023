@@ -4,11 +4,6 @@
 
 int ctoi(int in) { return in - 48; }
 
-int wordtoi(char letter) {
-  // if (letter == 'o')
-  return -1;
-}
-
 int main() {
   FILE *fp = fopen("input.txt", "r");
   int res = 0;
