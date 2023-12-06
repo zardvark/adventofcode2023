@@ -1,0 +1,3 @@
+card 0: 0 copies 4 matches total_card_0 = 1; 1 + curr_copies
+card 1: 1 copy 2 matches total_card_1 = 2;
+card 2: 1 copy + 2 copy total_card_2 = 1 + 2 copies = 3
